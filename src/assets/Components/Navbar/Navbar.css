@@ -1,0 +1,10 @@
+.fuhadShiblu_menu ul li a::after{
+    content: '';
+    width: 20px;
+    height: 1px;
+    background: #000;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
