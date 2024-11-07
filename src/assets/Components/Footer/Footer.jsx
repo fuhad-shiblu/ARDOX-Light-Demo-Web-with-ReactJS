@@ -1,4 +1,4 @@
-import { FaHeart } from "react-icons/fa"
+import { FaHeart, FaReact } from "react-icons/fa"
 import { Link } from "react-router-dom"
 
 const Footer = () => {
